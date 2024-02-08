@@ -1,0 +1,26 @@
+/* Statistics.module.css */
+
+.statsContainer {
+  margin-top: 20px;
+  padding: 20px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+}
+
+.statsItem {
+  margin-bottom: 10px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.good {
+  color: #155724;
+}
+
+.neutral {
+  color: #004085;
+}
+
+.bad {
+  color: #721c24;
+}
